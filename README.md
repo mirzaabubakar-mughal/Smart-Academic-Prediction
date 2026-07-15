@@ -24,7 +24,6 @@ The system is designed for educational and research purposes to compare differen
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Neural Network
 
 ## Data Visualization
 
@@ -36,7 +35,6 @@ The system provides several visualizations to help analyze model performance, in
 - Grade Distribution
 - Correlation Heatmap
 - PCA Visualization
-- t-SNE Visualization
 
 ## Tech Stack
 
@@ -47,7 +45,7 @@ The system provides several visualizations to help analyze model performance, in
 - NumPy
 - Pandas
 - Scikit-learn
-- Matplotlib
+- Plotly
 
 #### Frontend
 
@@ -176,7 +174,6 @@ It also provides visual reports for model comparison and prediction analysis.
 ## Future Improvements
 
 - Deep learning models
-- Explainable AI (XAI)
 - Real-world educational datasets
 - Upload Dataset
 - User authentication
